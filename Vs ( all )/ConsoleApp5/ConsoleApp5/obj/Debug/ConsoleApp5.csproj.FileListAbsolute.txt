@@ -1,0 +1,8 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 03.01\Ажигин Перевощиков\Mdk Vs ( калькулятор)\Vs ( all )\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
